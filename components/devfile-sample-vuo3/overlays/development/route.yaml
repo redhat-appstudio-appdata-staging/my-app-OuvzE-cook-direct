@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-vuo3
     app.kubernetes.io/part-of: my-app
-  name: devfile-sample-vuo36kbf
+  name: devfile-sample-vuo3ipfd
 spec:
   path: /
   port:
